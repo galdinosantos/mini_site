@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blue;
+    font-size: 2rem;
+
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+body {
+    background-color: rgb(149, 160, 160);
+}
+
+ol {
+    border: 1px solid #dee7e7;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(46, 29, 202, 0.2);
+    max-width: 200px;
+
+    li:hover{
+        text-decoration: overline;;
+    }
+}
